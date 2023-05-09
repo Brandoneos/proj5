@@ -1,0 +1,9 @@
+1. tests on enqueue, constructor, and size ✅
+2. toString function ✅
+3. clear function ✅
+4. operator= ✅
+5. begin and next functions✅
+6. dequeue✅
+7. peek ✅
+8. equality operator✅
+9. destructor
